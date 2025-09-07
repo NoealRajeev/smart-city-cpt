@@ -1,0 +1,23 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editors
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.swp
+*.swo
+
+# Media exports (keep repo light)
+assets/video/*
+!assets/video/README.md
+
+# Packet Tracer autosave/backup
+*.bak
+*.autosave
